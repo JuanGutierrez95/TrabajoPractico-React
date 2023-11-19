@@ -3,7 +3,7 @@ import ProductDetail from "./components/ProductDetail";
 
 function App() {
   return (
-    <div>
+    <div className="bg-gradient-to-bottom-primary-warning">
       <header>
         <h1>Detalle del producto</h1>
       </header>
